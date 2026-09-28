@@ -1,0 +1,6 @@
+{
+  "name": "GGPatcher Studio & Fluid Video Transitions",
+  "description": "Interactive GGPatcher launcher simulation with fluid cinematic outro transitions, Gemini 3.1 Pro video analyzer, and Veo 3 video generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
